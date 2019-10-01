@@ -1,8 +1,8 @@
 #### Web Rtc PhotoClick
-##### Used Google Developer tool and WebRtc to access camera of laptop and take photo and then save it in canvas
-> Further you can add filters on those photos and save them in data base or local storage with HTML5 and Javascript
+##### Used Google Developer tool and WebRtc to access the pc camera and then save photos in the canvas.
+> Further, you can add filters on those photos and save them in the data base or local storage with HTML5 and Javascript.
 
-##### I'll advice you to go and read docs of WebRtc to understand this more.
+##### I'll advise you to go and read docs of WebRtc to understand this more.
 ##### References:-
 <ul>
   <li>
